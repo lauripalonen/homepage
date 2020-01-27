@@ -12,6 +12,10 @@ img {
     max-height: 100%;
 }
 
+p { 
+    padding: 0em 1.5em 0em 1.5em;
+}
+
 #buttons {
     background: linear-gradient(#e7ebe4, #f6f7f0);
 }
